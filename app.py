@@ -1,4 +1,5 @@
 import streamlit as st
+st.image("https://theromanianlawyers.com/wp-content/uploads/2023/02/AI.jpeg", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
